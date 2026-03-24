@@ -1,7 +1,5 @@
 # Reputation Level Up!
 
-![Reputation Level Up!](https://github.com/DonnieDice/ReputationLevelUp/blob/main/media/Textures/preview.png?raw=true)
-
 ## Overview
 **Reputation Level Up!** enhances your World of Warcraft experience by playing iconic sounds from various other games when you gain reputation or renown ranks.
 
