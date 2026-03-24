@@ -1,9 +1,9 @@
-# Rep Up!
+# Reputation Level Up!
 
-![Rep Up!](https://github.com/donniedice/Rep-Up-/blob/main/images/preview.png)
+![Reputation Level Up!](https://github.com/DonnieDice/ReputationLevelUp/blob/main/media/Textures/preview.png?raw=true)
 
 ## Overview
-**Rep Up!** enhances your World of Warcraft experience by playing iconic sounds from various other games when you gain reputation or renown ranks.
+**Reputation Level Up!** enhances your World of Warcraft experience by playing iconic sounds from various other games when you gain reputation or renown ranks.
 
 ---
 
@@ -68,7 +68,7 @@
 ---
 
 ## Installation
-1. Download the addon from [Curse](https://www.curseforge.com/wow/addons/rep-up), [GitHub](https://github.com/donniedice/Rep-Up-), [Wago](https://addons.wago.io/addons/rep-up), or [WoWInterface](https://www.wowinterface.com/downloads/info26319-RepUp.html).
+1. Download the addon from [Curse](https://www.curseforge.com/wow/addons/reputationlevelup), [GitHub](https://github.com/DonnieDice/ReputationLevelUp), [Wago](https://addons.wago.io/addons/reputation-level-up), or [WoWInterface](https://www.wowinterface.com/downloads/info26319-RepUp.html).
 2. Extract the downloaded file to your World of Warcraft `Interface/AddOns` directory:
    - For **Dragonflight**: `World of Warcraft/_retail_/Interface/AddOns`
    - For **Classic Cataclysm**: `World of Warcraft/_classic_/Interface/AddOns`
@@ -99,5 +99,6 @@ Thank you for your support! 🙏
 - Follow me on [GitHub](https://github.com/donniedice) 🐙
 
 ### ⭐️ Show Your Support:
-- Star this project on [GitHub](https://github.com/donniedice/Rep-Up-) ⭐️
+- Star this project on [GitHub](https://github.com/DonnieDice/ReputationLevelUp) ⭐️
 - Share it with your friends and colleagues 📢
+

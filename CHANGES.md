@@ -10,10 +10,11 @@
 - Added - Notations
 - Removed - Draft release section - [release.yml]
 - Updated - README.md
-- Fixed - Colors in notes - [Rep Up!.toc, Rep Up!_c.toc, Rep Up!_v.toc]
+- Fixed - Colors in notes - [ReputationLevelUp.toc, ReputationLevelUp_c.toc, ReputationLevelUp_v.toc]
 - Fixed - CHANGELOG to CHANGES - [.pkgmeta]
 - Fixed - Default sound selections
 - Added - DebugMode - "/blu debug" to toggle - [utils.lua, core.lua, core_c.lua, core_v.lua]
 - Fixed - Issues with colors - OptionsPanel - [options.lua, options_v.lua]
-- Fixed - Issues with colors - ##Title  ##Notes - [Rep Up!.toc, Rep Up!_Cata.toc, Rep_Up!_Vanilla.toc]
+- Fixed - Issues with colors - ##Title  ##Notes - [ReputationLevelUp.toc, ReputationLevelUp_Cata.toc, Rep_Up!_Vanilla.toc]
 - Fixed - Issue with color - [icon.tga]
+

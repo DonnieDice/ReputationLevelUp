@@ -1,0 +1,22 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="core/core.lua"/>
+    <Script file="core/config.lua"/>
+    <Script file="core/database.lua"/>
+    <Script file="core/utils.lua"/>
+    <Script file="core/sound_catalog.lua"/>
+    <Script file="core/reputation_data.lua"/>
+
+    <Script file="Localization/enUS.lua"/>
+
+    <Script file="core/interface/design.lua"/>
+    <Script file="core/interface/widgets.lua"/>
+    <Script file="core/interface/options/tabs.lua"/>
+    <Script file="core/interface/panels/general.lua"/>
+    <Script file="core/interface/panels/reputations.lua"/>
+    <Script file="core/interface/panels/about.lua"/>
+    <Script file="core/interface/options/main.lua"/>
+
+    <Script file="modules/Reputation/Reputation.lua"/>
+    <Script file="core/commands.lua"/>
+    <Script file="core/initialization.lua"/>
+</Ui>
